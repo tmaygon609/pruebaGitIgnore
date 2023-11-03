@@ -1,1 +1,8 @@
+
+# Ignore los archivos .class y .log
 *.class
+*.log
+
+# Ignore la carpeta completa
+
+/pwd/
