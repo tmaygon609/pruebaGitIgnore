@@ -1,4 +1,3 @@
-
 # Ignore los archivos .class y .log
 *.class
 *.log
